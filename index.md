@@ -18,7 +18,7 @@ TBA
 
 ## Notes
 
-Notes for Calabi-Yau categories and Calabi-Yau algebras[pdf](doc/[Jean-Louis Loday, Bruno Vallette][Algebraic Operads].pdf)<br />
+Notes for Calabi-Yau categories and Calabi-Yau algebras([pdf](doc/[Jean-Louis Loday, Bruno Vallette][Algebraic Operads].pdf))<br />
 Notes for category theory(under construction!)<br />
 
 Here is an example of table
