@@ -18,7 +18,7 @@ TBA
 
 ## Notes
 
-Notes for Calabi-Yau categories and Calabi-Yau algebras([pdf](https://raw.githubusercontent.com/WalterScu/Calabi-Yau/master/main.pdf))<br />
+Notes for Calabi-Yau categories and Calabi-Yau algebras([pdf](https://github.com/WalterScu/Calabi-Yau/main.pdf))<br />
 Notes for category theory(under construction!)<br />
 
 Here is an example of table
