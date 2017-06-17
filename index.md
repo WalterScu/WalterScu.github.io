@@ -13,12 +13,13 @@ I'm now an undergraduate student in College of Mathematics, Sichuan University.
 Algebraic geometry; algebraic topology, especially higher category theory, homotopy theory and their applications in derived algebraic geometry. 
 
 ## Publications
+
 TBA
 
 ## Notes
 
-[Calabi-Yau categories and Calabi-Yau algebras](doc/[Jean-Louis Loday, Bruno Vallette][Algebraic Operads].pdf)
-[Notes for category theory(under construction!)](/)
+Notes for Calabi-Yau categories and Calabi-Yau algebras[pdf](doc/[Jean-Louis Loday, Bruno Vallette][Algebraic Operads].pdf)<br />
+Notes for category theory(under construction!)<br />
 
 Here is a table
 
