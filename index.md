@@ -4,8 +4,6 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
-
 I'm now an undergraduate student in College of Mathematics, Sichuan University. 
 
 ## Research Interest
