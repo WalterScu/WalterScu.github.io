@@ -6,22 +6,19 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I'm now an undergraduate student in College of Mathematics, Sichuan University. 
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Algebraic geometry; algebraic topology, especially higher category theory, homotopy theory and their applications in derived algebraic geometry. 
 
 ## Publications
+TBA
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Notes
 
-## Typography
-
-This is a [link](doc/[Jean-Louis Loday, Bruno Vallette][Algebraic Operads].pdf). Something *italics* and something **bold**.
+[Calabi-Yau categories and Calabi-Yau algebras](doc/[Jean-Louis Loday, Bruno Vallette][Algebraic Operads].pdf)
+[Notes for category theory(under construction!)](/)
 
 Here is a table
 
