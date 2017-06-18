@@ -1,21 +1,19 @@
 ---
 layout: default
-is_contact: true
+is_contact: false
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [htzouscu@gmail.com](mailto:htzouscu@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+86 13b190b1589](#)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Chengdu
 >
-> London
->
-> United Kingdom
+> China
 
 ---
 
