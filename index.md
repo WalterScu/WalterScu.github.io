@@ -6,9 +6,9 @@ layout: default
 
 I'm now an undergraduate student in College of Mathematics, Sichuan University. 
 
-## Research Interest
+## Research Interests
 
-Algebraic geometry; algebraic topology, especially higher category theory, homotopy theory and their applications in derived algebraic geometry. 
+Algebraic geometry, especially the algebraic geometry in positive characteristic.
 
 ## Publications
 
