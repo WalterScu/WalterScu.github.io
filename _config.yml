@@ -1,9 +1,7 @@
 title: Homepage of Zou Haitao
 
 markdown: kramdown
-
-tracking_id: #
-
+math_engine: mathjax
 sass:
     style: compressed
     sass_dir: _sass

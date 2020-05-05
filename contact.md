@@ -11,7 +11,7 @@ is_contact: false
 
 ## Mailing Address
 
-> Chengdu
+> Yangpu, Shanghai 
 >
 > China
 
@@ -19,6 +19,5 @@ is_contact: false
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
+1. [Wechat](#)
 3. [Google+](#)

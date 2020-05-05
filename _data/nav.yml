@@ -1,3 +1,11 @@
+- name: "Preprints"
+  link: "preprints"
+
+- name: "Lecture notes"
+  link: "notes"
+
+- name: "Seminars"
+  link: "seminars"
 - name: "Contact"
   link: "contact"
 
@@ -6,3 +14,5 @@
 
 - name: "About"
   link: "/"
+
+
