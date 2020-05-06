@@ -6,13 +6,10 @@ layout: default
 
 I'm now a graduate student in school of mathematical sciences, Fudan University. 
 
-## Research Interests
+### Research Interests
 
 Algebraic geometry, especially the algebraic geometry in positive characteristic.
 
-## Publications
+### Publications
 
 
-## References
-
-TBA
