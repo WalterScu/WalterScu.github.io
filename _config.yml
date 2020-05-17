@@ -6,5 +6,4 @@ sass:
     style: compressed
     sass_dir: _sass
         
-include:
-        doc
+include: /doc
