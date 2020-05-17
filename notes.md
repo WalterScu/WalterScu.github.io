@@ -8,4 +8,4 @@ Here is my personal respository of lecture notes. Please feel free for using the
 
 * A quick review on the theory of $\infty$-category
 
-* Variational Hodge Conjecture [part2]({{site.url}}/doc/variationalHodge2/pdf) 
+* Variational Hodge Conjecture [part2]({{site.url}}/doc/variationalHodge2.pdf) 
